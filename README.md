@@ -69,4 +69,4 @@ npm run deploy
 Tanenbaum, A. S., & Wetherall, D. J. (2021). *Computer Networks* (6th ed.). Pearson.
 
 ---
-Made with ❤️ for CSE undergrads
+
